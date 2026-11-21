@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey, I’m Ahmed 👋 An AI/ML engineer in NYC with a CS & AI degree from Cairo University. <br>I like building things that listen, read, and reason: voice-activated RAG agents, OCR pipelines that catch bad receipts, and an F1 predictor that’s probably more confident than it should be. <br>When I’m not shipping models, I’m learning electric guitar and slowly getting Scorpions riffs right 🎸 <br>Open to AI/ML engineering roles, so feel free to reach out!
 
 
@@ -11,11 +11,5 @@ Hey, I’m Ahmed 👋 An AI/ML engineer in NYC with a CS & AI degree from Cairo 
 ![](https://github-readme-stats.shion.dev/api?username=AhmedMuhsen&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AhmedMuhsen&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedMuhsen&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
----
-[![](https://komarev.com/ghpvc/?username=AhmedMuhsen&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
